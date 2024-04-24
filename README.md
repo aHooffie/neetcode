@@ -1,4 +1,5 @@
-Warmdraaien met (Neetcode)[https://neetcode.io/problems/].
+Warmdraaien met [Neetcode](https://neetcode.io/problems/) en [Leetcode](https://leetcode.com/studyplan/leetcode-75/).
 
 24/4
-- Dynamic Array opgezet.
+- Twee datastructuren-opdrachten van neetcode gedaan, rest is betaald.
+- Begonnen met Leetcode, daar eerste twee opdrachten van gedaan.
