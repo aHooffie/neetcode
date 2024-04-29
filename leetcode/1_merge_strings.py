@@ -3,6 +3,7 @@
     Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
     Return the merged string.
     Constraints: 1 <= word1.length, word2.length <= 100
+    [Assignment 1](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)
 """
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:

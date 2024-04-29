@@ -2,4 +2,13 @@ Warmdraaien met [Neetcode](https://neetcode.io/problems/) en [Leetcode](https://
 
 24/4
 - Twee datastructuren-opdrachten van neetcode gedaan, rest is betaald.
-- Begonnen met Leetcode, daar eerste twee opdrachten van gedaan.
+- Begonnen met Leetcode, daar eerste drie opdrachten van gedaan.
+
+25/4
+- Leetcode: 4, begonnen met 5.
+
+29/4
+- Leetcode 5 afgemaakt, 
+
+
+
